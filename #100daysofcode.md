@@ -10,3 +10,16 @@ So this is my first day of 100 days of code. I am motivated but not excited. I k
 
 ### Links to work: 
 [Bootstrap](https://github.com/RakibulIslam1161062/Bootstrap).
+
+
+
+## Day 1: August 18,2019 Sunday
+
+### Today's Progress:
+Progress is not enough.I am not happy.
+
+### Thoughts:
+Okey! I have to work hard on it.messed up everything.Started django and finished bootstrap.
+
+### Links to work: 
+[Bootstrap](https://github.com/RakibulIslam1161062/Bootstrap).
