@@ -23,3 +23,15 @@ Okey! I have to work hard on it.messed up everything.Started django and finished
 
 ### Links to work: 
 [Bootstrap](https://github.com/RakibulIslam1161062/Bootstrap).
+
+
+## Day 2: August 19,2019 Monday
+
+### Today's Progress:
+Today I have learnt about Django views and other things.just Watched 5 tutorials.
+
+### Thoughts:
+I think its easy to learn django. InshaAllah I will learn quickly and can be able to make a website of my own.
+
+### Links to work: 
+[Django](https://github.com/RakibulIslam1161062/Python-Projects/tree/master/website).
