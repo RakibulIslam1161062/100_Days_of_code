@@ -35,3 +35,15 @@ I think its easy to learn django. InshaAllah I will learn quickly and can be abl
 
 ### Links to work: 
 [Django](https://github.com/RakibulIslam1161062/Python-Projects/tree/master/website).
+
+
+## Day 3: August 20,2019 Tuesday
+
+### Today's Progress:
+Learned about django models.From newboston tutorials.
+
+### Thoughts:
+Seems interesting. I can inshaAllah. Progress is slow but satisfying.
+
+### Links to work: 
+[Django](https://github.com/RakibulIslam1161062/Python-Projects/tree/master/website).
