@@ -47,3 +47,14 @@ Seems interesting. I can inshaAllah. Progress is slow but satisfying.
 
 ### Links to work: 
 [Django](https://github.com/RakibulIslam1161062/Python-Projects/tree/master/website).
+
+
+## Day 4: August 21,2019 Wednesday
+
+### Today's Progress:
+Learned how to activate django models and about database.
+
+### Thoughts:
+Tired today. Can't solve one problem.Going to sleep.
+### Links to work: 
+[Django](https://github.com/RakibulIslam1161062/Python-Projects/tree/master/website).
