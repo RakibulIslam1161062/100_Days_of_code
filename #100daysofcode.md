@@ -58,3 +58,13 @@ Learned how to activate django models and about database.
 Tired today. Can't solve one problem.Going to sleep.
 ### Links to work: 
 [Django](https://github.com/RakibulIslam1161062/Python-Projects/tree/master/website).
+
+
+## Day 5: August 22,2019 Thursday
+
+### Today's Progress:
+No progress detected
+### Thoughts:
+Some problems should be solved
+### Links to work: 
+[Django](https://github.com/RakibulIslam1161062/Python-Projects/tree/master/website).
