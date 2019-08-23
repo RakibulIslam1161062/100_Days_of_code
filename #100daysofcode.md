@@ -68,3 +68,14 @@ No progress detected
 Some problems should be solved
 ### Links to work: 
 [Django](https://github.com/RakibulIslam1161062/Python-Projects/tree/master/website).
+
+
+
+## Day 6: August 23,2019 Friday
+
+### Today's Progress:
+I have learned how to add views in django.Used html simple view.
+### Thoughts:
+Yesterday's problem is solved now.I think i am doing good.
+### Links to work: 
+[Django](https://github.com/RakibulIslam1161062/Python-Projects/tree/master/website).
