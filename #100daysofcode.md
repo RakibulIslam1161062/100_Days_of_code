@@ -79,3 +79,15 @@ I have learned how to add views in django.Used html simple view.
 Yesterday's problem is solved now.I think i am doing good.
 ### Links to work: 
 [Django](https://github.com/RakibulIslam1161062/Python-Projects/tree/master/website).
+
+
+## Day 7: August 24,2019 Saturday
+
+### Today's Progress:
+I have learned how to raise 404 not found errror and shortcut render today.
+### Thoughts:
+Okey.This seems interesting now. I have mid week starting on Monday.So have to keep going with this 100 days.
+ 
+### Links to work: 
+[Django](https://github.com/RakibulIslam1161062/Python-Projects/tree/master/website).
+
